@@ -11,6 +11,7 @@ tools:context=".MainActivity">
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Enable Exit"
+        android:background="@color/teal_200"
         android:id="@+id/chkStatus"/>
 <com.example.myapplication.TaskView
     android:id="@+id/taskView"
